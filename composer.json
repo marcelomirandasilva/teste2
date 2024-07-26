@@ -1,0 +1,19 @@
+{
+    "name": "miranda/teste2",
+    "autoload": {
+        "psr-4": {
+             "Application\\": "Application/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcelomirandasilva",
+            "email": "marcelo.miranda.pp@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*",
+        "nikic/fast-route": "^1.3"
+
+    }
+}
